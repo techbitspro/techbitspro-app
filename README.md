@@ -1,4 +1,5 @@
-# techbitspro-app
+# TechBitsPro
+
 🚀 TechBitsPro is an on-demand IT consulting web app for small businesses, nonprofits, and freelancers. Built from scratch by a 25-year tech veteran.
 
 ✅ Custom scheduling system  
@@ -16,7 +17,7 @@
 - **Payments:** Stripe  
 
 ## Installation
-1. Clone: `git clone https://github.com/yourusername/techbitspro.git`  
+1. Clone: `git clone https://github.com/techbitspro/techbitspro-app.git`  
 2. Install: `npm install` (frontend & backend)  
 3. Setup: Add PostgreSQL DB, Stripe keys (see INSTALLATION.md)  
 4. Run: `npm start` (both dirs)  
